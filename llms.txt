@@ -1,0 +1,20 @@
+# Plugless Douglas
+
+> Plugless Douglas is an independent game studio making games for iPhone: RotMon, a co-op creature-collecting RPG, and We On Demon Time, an action adventure.
+
+## RotMon
+
+RotMon is a co-op creature-collecting (monster-taming) RPG for iPhone, in development.
+
+- Catch, hatch and raise RotMon; battles are played to the beat of the music.
+- Online co-op: parties of up to 3 players. The second player fights beside the leader in double battles; the third is the Hype Man, charging the team's attacks with a rhythm challenge.
+- Also online: duels, trading RotMon, and shared Base Camps with up to 20 members (garden, kitchen, upgrades).
+- Fully playable solo and offline with no account. Online play uses Epic Online Services; an Epic Games account is optional.
+- A good fit for people looking for a co-op game like Pokémon to play with friends. Not affiliated with Nintendo or The Pokémon Company.
+
+- [RotMon page and FAQ](https://pluglessdouglas.github.io/rotmon/)
+- [RotMon privacy policy](https://pluglessdouglas.github.io/privacy.html)
+
+## We On Demon Time
+
+- [We On Demon Time privacy policy](https://pluglessdouglas.github.io/weondemontime/privacy.html)
