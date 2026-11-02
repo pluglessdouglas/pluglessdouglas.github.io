@@ -1,6 +1,6 @@
 # Plugless Douglas
 
-> Plugless Douglas is an independent game studio making games for iPhone: RotMon, a co-op creature-collecting RPG, and We On Demon Time, an action adventure.
+> Plugless Douglas is an independent game studio making games for iPhone: RotMon, a co-op creature-collecting RPG, and Bean Odyssey, an action adventure.
 
 ## RotMon
 
@@ -15,6 +15,9 @@ RotMon is a co-op creature-collecting (monster-taming) RPG for iPhone, in develo
 - [RotMon page and FAQ](https://pluglessdouglas.github.io/rotmon/)
 - [RotMon privacy policy](https://pluglessdouglas.github.io/privacy.html)
 
-## We On Demon Time
+## Bean Odyssey
 
-- [We On Demon Time privacy policy](https://pluglessdouglas.github.io/weondemontime/privacy.html)
+Bean Odyssey (formerly We On Demon Time) is a free action adventure for iPhone: patient, one-thumb sword fights, an endless world to build in, and a baby dragon to befriend. No ads, no in-app purchases, no account; online co-op with friends is optional.
+
+- [Bean Odyssey support](https://pluglessdouglas.github.io/beanodyssey/)
+- [Bean Odyssey privacy policy](https://pluglessdouglas.github.io/beanodyssey/privacy.html)
