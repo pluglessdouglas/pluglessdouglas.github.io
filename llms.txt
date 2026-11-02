@@ -21,3 +21,10 @@ Bean Odyssey (formerly We On Demon Time) is a free action adventure for iPhone: 
 
 - [Bean Odyssey support](https://pluglessdouglas.github.io/beanodyssey/)
 - [Bean Odyssey privacy policy](https://pluglessdouglas.github.io/beanodyssey/privacy.html)
+
+## Bean Jump
+
+Bean Jump is a free arcade jumping game for iPhone: turn the phone to steer Eddie the bean up through the sky, space and other dimensions, with power-ups, monsters, outfits and a Game Center leaderboard. No ads, no in-app purchases, no account.
+
+- [Bean Jump support](https://pluglessdouglas.github.io/beanjump/)
+- [Bean Jump privacy policy](https://pluglessdouglas.github.io/beanjump/privacy.html)
